@@ -1,0 +1,19 @@
+{
+  "name": "psp-reference-implementation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reference implementation for the Probabilistic Settlement Protocol (PSP) v1.0.",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.10",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "ethers": "^6.13.2"
+  }
+}
+
