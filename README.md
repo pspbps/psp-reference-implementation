@@ -66,3 +66,28 @@ It intentionally does **not** implement:
 ## License
 
 License will be added in a subsequent commit.
+## Getting Started
+
+This repository provides a **reference implementation** of the
+Probabilistic Settlement Protocol (PSP), intended for developers,
+auditors, and integrators to understand and reproduce the on-chain logic.
+
+> This implementation is for **local development and verification only**.
+> It is not a production deployment.
+
+---
+
+### Requirements
+
+- Node.js >= 18
+- npm >= 9
+- Git
+
+---
+
+### Installation
+
+Clone the repository and install dependencies:
+
+```bash
+npm install
