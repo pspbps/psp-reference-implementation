@@ -1,3 +1,39 @@
+# PSP Reference Implementation
+
+⚠️ This repository contains a **non-authoritative reference implementation**
+of the Probabilistic Settlement Protocol (PSP).
+
+This codebase exists to demonstrate and validate the PSP specification.
+It is **not** the canonical definition of the protocol.
+
+---
+
+## Canonical Specification
+
+The authoritative PSP specification is defined here:
+
+https://github.com/pspbps/probabilistic-settlement-protocol
+
+Any discrepancies between this implementation and the specification
+should be resolved in favor of the specification.
+
+---
+
+## Purpose of This Repository
+
+This repository is intended for:
+
+- Demonstrating how PSP rules may be implemented
+- Validating probabilistic settlement logic
+- Providing a baseline for independent implementations
+- Testing specification assumptions
+
+It is **not intended** to:
+
+- Act as a production-ready contract
+- Represent a unique or official PSP deployment
+- Define governance or protocol authority
+
 # PSP Reference Implementation (v1.0)
 
 This repository provides a **reference implementation** of the
